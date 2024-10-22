@@ -197,11 +197,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
-      read_time: false
-      comments: false
-      share: false
-      related: false
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -215,35 +215,35 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: false
-      share: false
-      comments: false
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
-      author_profile: false
-      share: false
-      comments: false
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: trfalseue
-      share: false
-      comment: false
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: false
-      share: false
+      author_profile: true
+      share: true
+      comments: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
