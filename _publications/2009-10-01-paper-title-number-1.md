@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Long-lasting humoral and cellular memory immunity to vaccinia virus Tiantan provides pre-existing immunity against mpox virus in Chinese population"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-1-cell
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2024-05-20
+venue: 'n. Cell Rep'
+paperurl: ' '
+citation: 'Li M, Guo Y, Deng Y, Gao W, Huang B, Yao W, Zhao Y, Zhang Q, Huang M, Liu M, Li L, Guo P, Tian J, Wang X, Lin Y, Gan J, Guo Y, Hu Y, Zhang J, Yang X, Shang B, Yang M, Han Y, Wang Y, Cong P, Li M, Chu Q, Zhang D, Wang Q, Zhang T, Wu G, Tan W, Gao GF, Liu J. Long-lasting humoral and cellular memory immunity to vaccinia virus Tiantan provides pre-existing immunity against mpox virus in Chinese population. Cell Rep. 2024 Jan 23;43(1):113609. doi: 10.1016/j.celrep.2023.113609. Epub 2023 Dec 29. PMID: 38159277.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://pubmed.ncbi.nlm.nih.gov/38159277/)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Li M, Guo Y, Deng Y, Gao W, Huang B, Yao W, Zhao Y, Zhang Q, Huang M, Liu M, Li L, Guo P, Tian J, Wang X, Lin Y, Gan J, Guo Y, Hu Y, Zhang J, Yang X, Shang B, Yang M, Han Y, Wang Y, Cong P, Li M, Chu Q, Zhang D, Wang Q, Zhang T, Wu G, Tan W, Gao GF, Liu J. Long-lasting humoral and cellular memory immunity to vaccinia virus Tiantan provides pre-existing immunity against mpox virus in Chinese population. Cell Rep. 2024 Jan 23;43(1):113609. doi: 10.1016/j.celrep.2023.113609. Epub 2023 Dec 29. PMID: 38159277.
